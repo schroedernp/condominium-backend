@@ -1,0 +1,15 @@
+C:\Users\Utilizador\Desktop\RenzoClasses\Condominium\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\Utilizador\Desktop\RenzoClasses\Condominium\Data\bin\Debug\net6.0\Data.dll
+C:\Users\Utilizador\Desktop\RenzoClasses\Condominium\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\Utilizador\Desktop\RenzoClasses\Condominium\Data\bin\Debug\net6.0\Application.dll
+C:\Users\Utilizador\Desktop\RenzoClasses\Condominium\Data\bin\Debug\net6.0\Application.pdb
+C:\Users\Utilizador\Desktop\RenzoClasses\Condominium\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\RenzoClasses\Condominium\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Desktop\RenzoClasses\Condominium\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\RenzoClasses\Condominium\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\RenzoClasses\Condominium\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\RenzoClasses\Condominium\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\Users\Utilizador\Desktop\RenzoClasses\Condominium\Data\obj\Debug\net6.0\Data.dll
+C:\Users\Utilizador\Desktop\RenzoClasses\Condominium\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\Utilizador\Desktop\RenzoClasses\Condominium\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\Utilizador\Desktop\RenzoClasses\Condominium\Data\obj\Debug\net6.0\ref\Data.dll
